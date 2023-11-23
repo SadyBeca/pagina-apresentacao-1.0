@@ -9,5 +9,5 @@
 | :rocket: URL         |  [https://sadybeca.github.io/pagina-apresentacao-1.0/](https://sadybeca.github.io/pagina-apresentacao-1.0/)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![imagem da minha página de portifolio](https://github.com/SadyBeca/pagina-apresentacao-1.0/assets/134239560/83653165-0e99-4b92-8e8e-f2f2e31821da)
+![imagem da minha página de portifolio](https://github.com/SadyBeca/pagina-apresentacao-1.0/assets/134239560/83653165-0e99-4b92-8e8e-f2f2e31821da#vitrinedev)
 
